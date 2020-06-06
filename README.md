@@ -9,14 +9,15 @@ This repository was created to showcase my personal website. The live site can b
 
 ### Template
 
-- Dimension by HTML5 UP (html5up.net)
+- Dimension by [HTML5 UP](html5up.net)
 - AJ (aj@lkn.io | @ajlkn)
 
 ### Icons
 
-- Font Awesome (fontawesome.io)
+- [Font Awesome](fontawesome.io)
+- [favicon.io](https://favicon.io/)
 
 ### Other
 
-- jQuery (jquery.com)
-- Responsive Tools (github.com/ajlkn/responsive-tools)
+- [jQuery](jquery.com)
+- [Responsive Tools](github.com/ajlkn/responsive-tools)
